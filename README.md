@@ -19,9 +19,9 @@
 
 ⚡ Fun fact: ... Nothing
 
-🔴 Prohect On React 🔴
+🔴 Project On React 🔴
     
     Netflix - Clone React App : https://netflix-clone-5589f.web.app/ 
     
     
-   #Keep Learning, Keep Sharing!!!!
+   # Keep Learning, Keep Sharing!!!!
