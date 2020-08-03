@@ -13,15 +13,20 @@
 
 🤔 Ask me about ...Anything
 
-🌟 How to reach me: ...{Linkedin} https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
+🌟 How to reach me: ...
+    # {Linkedin} https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
 
 👦 Pronouns: ... He/Him
 
 ⚡ Fun fact: ... Nothing
 
-🔴 Project On React 🔴
+🔴 Project On React 
     
     Netflix - Clone React App : https://netflix-clone-5589f.web.app/ 
     
-    
-   # Keep Learning, Keep Sharing!!!!
+  ⚡ User Interface of a music app named : Musify
+   
+   # Link for the Design(designed on Figma) :
+       https://www.figma.com/proto/7erKyR5WfQHRS2GKkY25c8/Music-Player?node-id=13%3A67&viewport=353%2C-316%2C0.32381466031074524&scaling=scale-down
+  
+  # Keep Learning, Keep Sharing!!!!
