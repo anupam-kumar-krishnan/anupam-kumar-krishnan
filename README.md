@@ -1,9 +1,9 @@
 # Hi there 👋
-  I'm a computer Science student👨‍💻 paving a path to become a
-  Web developer⚡ from Dr. D.Y.Patil College of Engineering👨‍🎓
+  I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
+  from Dr. D.Y.Patil College of Engineering👨‍🎓
   
   
-  🌟I'm a 🧑
+# 🌟I'm a 🧑
 
       ✨Competitive Coder
 
