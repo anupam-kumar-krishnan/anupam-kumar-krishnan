@@ -1,5 +1,17 @@
 # Hi there 👋
+  I'm a computer Science student👨‍💻 paving a path to become a
+  Web developer⚡ from Dr. D.Y.Patil College of Engineering.
+  
+  
+  🌟I'm a 
 
+      ✨Competitive Coder
+
+      ✨Web developer enthusiast
+
+      ✨UI/UX Designing Enthusiast
+
+      ✨Technical Writer
 
 # Here Is What I'm Working On!💻
 
