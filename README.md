@@ -3,7 +3,7 @@
   from Dr. D.Y.Patil College of Engineering👨‍🎓
   
   
-# 🌟I'm a
+# I'm a
 
       ✨Competitive Coder
 
