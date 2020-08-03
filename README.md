@@ -2,7 +2,7 @@
 
 # Here Is What I'm Working On!💻
 
-🔭 I’m currently working on ...Reactapp and javascript development
+🔭 I’m currently working on ...Reactapp and javascript projects
 
 💻 I’m currently learning ...MERN Full-stack development
 
