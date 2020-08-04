@@ -6,13 +6,13 @@
   
 # I'm a
 
-      ✨Competitive Coder
+      ✨ Competitive Coder
 
-      ✨Web developer enthusiast
+      ✨ Web developer enthusiast
 
-      ✨UI/UX Designing Enthusiast
+      ✨ UI/UX Designing Enthusiast
 
-      ✨Technical Writer
+      ✨ Technical Writer
 
 # Here Is What I'm Working On!💻
 
