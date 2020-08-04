@@ -23,7 +23,7 @@
   🤔 Ask me about ...Anything
 
   🌟 How to reach me: ...
-    # {Linkedin} https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
+       Linkedin : https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
 
   👦 Pronouns: ... He/Him
     
