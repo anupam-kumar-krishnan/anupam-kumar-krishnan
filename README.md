@@ -16,7 +16,7 @@
 
       ✨ Technical Writer
 
-# Here Is What I'm Working On!👨‍💻
+## Here Is What I'm Working On!👨‍💻
 
   ✨ I’m currently working on ...Reactapp(Netflix-Clone and more) and javascript(some in js) projects
 
@@ -24,8 +24,6 @@
 
   🤔 Ask me about ...Anything
   
-  🤝 Connect With Me:  https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
-
   👦 Pronouns: ... He/Him
     
   ⚡ User Interface of a music app named : Musify
@@ -52,13 +50,17 @@
   <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br><br><br>
   
   
- ## Programming Languages Known
+ ## </> Programming Languages Known
 
-<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+<img  align="left" src="https://img.icons8.com/color/40/000000/c-programming.png"/>
 
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img  align="left" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
  
-<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
+<img  align="left" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
  
-<img src="https://img.icons8.com/color/40/000000/python.png"/>
+<img  align="left" src="https://img.icons8.com/color/40/000000/python.png"/><br><br><br>
  
+## 🤝 Connect With Me:  
+   Linkedin : https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
+       
+   Gmail : anupamkrishnan4@gmail.com
