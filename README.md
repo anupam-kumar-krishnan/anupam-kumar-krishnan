@@ -61,6 +61,6 @@
 <img  align="left" src="https://img.icons8.com/color/40/000000/python.png"/><br><br><br>
  
 ## 🤝 Connect With Me:  
-   Linkedin : https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
+  ## Linkedin :## https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
        
-   Gmail : anupamkrishnan4@gmail.com
+  ## Gmail :## anupamkrishnan4@gmail.com
