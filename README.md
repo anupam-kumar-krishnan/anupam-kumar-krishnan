@@ -1,3 +1,5 @@
+![git](https://user-images.githubusercontent.com/69143883/89448662-94740b80-d775-11ea-9b60-0a59dd658a53.png)
+
 # Hi there 👋
   I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
   from Dr. D.Y.Patil College of Engineering👨‍🎓 I ❤ developing websites using web developmet
@@ -50,4 +52,13 @@
   <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br><br><br>
   
   
-  
+ ## Programming Languages Known
+
+<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+
+<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+ 
+<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
+ 
+<img src="https://img.icons8.com/color/40/000000/python.png"/>
+ 
