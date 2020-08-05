@@ -14,7 +14,7 @@
 
       ✨ Technical Writer
 
-# Here Is What I'm Working On!💻
+# Here Is What I'm Working On!👨‍💻
 
   ✨ I’m currently working on ...Reactapp(Netflix-Clone and more) and javascript(some in js) projects
 
