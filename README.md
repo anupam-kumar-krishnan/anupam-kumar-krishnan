@@ -21,6 +21,8 @@
   💻 I’m currently learning ...MERN Full-stack development
 
   🤔 Ask me about ...Anything
+  
+  🤝 Connect With Me:  https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
 
   👦 Pronouns: ... He/Him
     
@@ -47,8 +49,5 @@
   
   <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br><br><br>
   
-   ## 🤝Connect With Me
-   
-   <a img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" href="https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/"/>
   
   
