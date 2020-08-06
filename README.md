@@ -2,8 +2,8 @@
 
 # Hi there 👋
   I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
-  from Dr. D.Y.Patil College of Engineering👨‍🎓 I ❤ developing websites using web developmet
-  tools(html,css,js) Also I ❤ desigining User Interface on Figma, Designs for mobile and web. 
+  from Dr. D.Y.Patil College of Engineering👨‍🎓.I ❤ developing websites using web developmet
+  tools(html,css,js). Also I ❤ desigining User Interface on Figma, Designs for mobile and web. 
   
   
 # I'm a
@@ -47,7 +47,10 @@
 
   <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   
-  <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br><br><br><br>
+  <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  
+  <img align="left" alt="Figma" width="50px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
+  <br><br><br><br>
   <br></br>
  ## </> Programming Languages Known
 
