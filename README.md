@@ -4,8 +4,7 @@
   I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
   from Dr. D.Y.Patil College of Engineering👨‍🎓.I ❤ developing websites using web developmet
   tools(html,css,js). Also I ❤ desigining User Interface on Figma, Designs for mobile and web. 
-  
-  
+
 # I'm a
 
       ✨ Competitive Coder
@@ -69,3 +68,6 @@
   ## Linkedin : https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
        
   ## Gmail : anupamkrishnan4@gmail.com
+ <br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
+  
