@@ -3,7 +3,7 @@
 # Hi there 👋
   I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
   from Dr. D.Y.Patil College of Engineering👨‍🎓.I ❤ developing websites using web developmet
-  tools(html,css,js). Also I ❤ desigining User Interface on Figma, Designs for mobile and web. 
+  tools(html,css,js). Also I ❤ <strong>desigining User Interface on Figma, Designs for mobile and web.</strong> 
 
 # I'm a
 
@@ -17,13 +17,13 @@
 
 ## Here Is What I'm Working On!👨‍💻
 
-  ✨ I’m currently working on ...Reactapp(Netflix-Clone and more) and javascript(some in js) projects
+  ✨ I’m currently working on ...<strong>Reactapp(Netflix-Clone and more) and javascript(some in js) projects</strong>
 
-  💻 I’m currently learning ...MERN Full-stack development
+  💻 I’m currently learning ...<strong>MERN Full-stack development</strong>
 
-  🤔 Ask me about ...Anything
+  🤔 Ask me about ...<strong>Anything</strong>
   
-  👦 Pronouns: ... He/Him
+  👦 Pronouns: ... <strong>He/Him</strong>
     
   ⚡ User Interface of a music app named : Musify
    
@@ -48,7 +48,7 @@
   
   <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   
-  <img align="left" alt="Figma" width="38px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
+  <img align="left" alt="Figma" width="35px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
   <br><br><br><br>
   
  ## </> Programming Languages Known
@@ -57,7 +57,7 @@
 
 <img  align="left" src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
  
-<img  align="left" src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
+<img  align="left" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
  
 <img  align="left" src="https://img.icons8.com/color/60/000000/python.png"/><br><br><br>
  <br></br>
