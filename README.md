@@ -67,7 +67,7 @@
 <img  align="left" width="45px" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
  
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/><br>
- <br>
+ <br><br>
  
 <img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&title_color=#2400B3&icon_color=#062150&text_color=daf7dc&bg_color=#ffffff"/>
  
