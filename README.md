@@ -72,9 +72,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&title_color=#2400B3&icon_color=#062150&text_color=daf7dc&bg_color=#ffffff"/>
  
 ## 🤝 Connect With Me:  
-  ## Linkedin : https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/
-       
-  ## Gmail : anupamkrishnan4@gmail.com
+  
+  <img src="https://img.icons8.com/ios-filled/45/000000/gmail.png" href="anupamkrishnan4@gmail.com">
+  
+  <img src="https://img.icons8.com/ios-filled/45/000000/linkedin.png" href="https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">    
+  
+  <img src="https://img.icons8.com/ios-filled/45/000000/instagram-new.png"/>
+  
+  <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>
+
  <br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
   
