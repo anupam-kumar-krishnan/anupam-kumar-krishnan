@@ -74,20 +74,17 @@
 ## 🤝 Connect With Me:  
    
    <a href="https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
-   <img align="left" alt="Anupam Kumar Krishnan's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <img align="left" alt="Anupam Kumar Krishnan's Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
    <a href="https://www.gmail.com/in/anupamkrishnan4@gmail.com">
-   <img align="left" alt="Anupam Kumar Krishnan's Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+   <img align="left" alt="Anupam Kumar Krishnan's Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
    </a>
    <a href="">
-   <img align="left" alt="Anupam Kumar Krishnan's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+   <img align="left" alt="Anupam Kumar Krishnan's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
    </a>
    <a href="">
-   <img align="left" alt="Anupam Kumar Krishnan's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-   </a>
-  
-  
-
- <br>
+   <img align="left" alt="Anupam Kumar Krishnan's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+   </a><br>
+ <br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
   
