@@ -29,7 +29,9 @@
    
     Link for the Design(designed on Figma) :
        https://www.figma.com/proto/7erKyR5WfQHRS2GKkY25c8/Music-Player?node-id=13%3A67&viewport=353%2C-316%2C0.32381466031074524&scaling=scale-down
-       
+ 
+ <br>
+  
   ## ⚒ Languages and Tools
   
   <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -70,6 +72,8 @@
  <br><br>
  
 <img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&title_color=#2400B3&icon_color=#062150&text_color=daf7dc&bg_color=#ffffff"/>
+ 
+ <br>
  
 ## 🤝 Connect With Me:  
    
