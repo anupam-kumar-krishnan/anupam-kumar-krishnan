@@ -1,6 +1,6 @@
 ![git](https://user-images.githubusercontent.com/69143883/89448662-94740b80-d775-11ea-9b60-0a59dd658a53.png)
 
-# Hi there 👋
+# <👋 Hello, World!/>
   I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
   from Dr. D.Y.Patil College of Engineering👨‍🎓.I ❤ developing websites using web developmet
   tools(html,css,js). Also I ❤ <strong>desigining User Interface on Figma, Designs for mobile and web.</strong> 
