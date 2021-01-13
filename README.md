@@ -79,9 +79,9 @@
 |---|---|
  <br>
  
- ### Most Used Languages 💻
+ ## Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=algolia)](https://github.com/anupam-kumar-krishnan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=algolia)](https://github.com/anupam-kumar-krishnan)<br>
  
 ## 🤝 Connect With Me:  
   
