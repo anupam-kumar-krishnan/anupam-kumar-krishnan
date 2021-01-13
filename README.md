@@ -1,4 +1,6 @@
 ![git](https://user-images.githubusercontent.com/69143883/89448662-94740b80-d775-11ea-9b60-0a59dd658a53.png)
+<br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
 
 # <👋 Hello, World!/><br>
 # I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -84,21 +86,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=light-blue)](https://github.com/anupam-kumar-krishnan)
  
 ## 🤝 Connect With Me:  
-   
-   <a href="https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
-   <img align="left" alt="Anupam Kumar Krishnan's Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-   </a>
-   <a href="https://www.gmail.com/in/anupamkrishnan4@gmail.com">
-   <img align="left" alt="Anupam Kumar Krishnan's Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-   </a>
-   <a href="">
-   <img align="left" alt="Anupam Kumar Krishnan's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-   </a>
-   <a href="">
-   <img align="left" alt="Anupam Kumar Krishnan's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-   </a><br>
- <br><br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
   
   <div align="center">
  <a href="https://www.linkedin.com/inanupam-kumar-krishnan-614373194/">
