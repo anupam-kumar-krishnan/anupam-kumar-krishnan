@@ -1,6 +1,4 @@
-![git](https://user-images.githubusercontent.com/69143883/89448662-94740b80-d775-11ea-9b60-0a59dd658a53.png)
-<br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
+![avento](https://user-images.githubusercontent.com/69143883/104419394-6b666b00-559e-11eb-9b64-8452ba46e226.gif)<br>
 
 # <👋 Hello, World!/><br>
 # I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -83,7 +81,7 @@
  
  ### Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=light-blue)](https://github.com/anupam-kumar-krishnan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=algolia)](https://github.com/anupam-kumar-krishnan)
  
 ## 🤝 Connect With Me:  
   
