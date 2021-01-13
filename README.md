@@ -77,7 +77,7 @@
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/><br>
  <br><br>
  
-|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan&theme=algolia"/>|
 |---|---|
  <br>
  
