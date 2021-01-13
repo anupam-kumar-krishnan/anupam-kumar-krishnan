@@ -61,7 +61,6 @@
    
    <img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
    
-  <img align="left" alt="Figma" width="27px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
 
   <br><br><br><br>
   
@@ -101,3 +100,26 @@
  <br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-kumar-krishnan&label=Views&color=blue&style=plastic" alt="anupam-kumar-krishnan" /> </p>
   
+  <div align="center">
+ <a href="https://www.linkedin.com/inanupam-kumar-krishnan-614373194/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/anupam-kumar-krishnan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/krishnan_anupan" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/anupamkumarkrishnan" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12383316/Anupam Kumar Krishnan" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.facebook.com/Anupam K Krishnan/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/_anupam_kumar_krishnan_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
