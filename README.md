@@ -100,10 +100,10 @@
 <a href="https://dev.to/anupamkumarkrishnan" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/14772878/anupam-kumar-krishnan" target="_blank">
+<a href="https://stackoverflow.com/users/14772878/anupam-kumar-krishnan?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.facebook.com/Anupam K Krishnan/" target="_blank">
+<a href="https://www.facebook.com/anupamk.krishnan" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_anupam_kumar_krishnan_" target="_blank">
