@@ -43,6 +43,8 @@
   
   <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   
+  <img align="left" alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  
   <img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
   <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -56,6 +58,8 @@
    <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
    
    <img align="left" alt="Nodejs" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   
+   <img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
    
   <img align="left" alt="Figma" width="27px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
 
@@ -72,9 +76,13 @@
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/><br>
  <br><br>
  
-<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&title_color=#2400B3&icon_color=#062150&text_color=daf7dc&bg_color=#ffffff"/>
- 
+|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan"/>|
+|---|---|
  <br>
+ 
+ ### Most Used Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=light-blue)](https://github.com/anupam-kumar-krishnan)
  
 ## 🤝 Connect With Me:  
    
