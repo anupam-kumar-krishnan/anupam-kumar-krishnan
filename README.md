@@ -18,8 +18,6 @@
 
 ## Here Is What I'm Working On!👨‍💻
 
-  ✨ I’m currently working on ...<strong>Reactapp(Netflix-Clone and more) and javascript(some in js) projects</strong>
-
   💻 I’m currently learning ...<strong>MERN Full-stack development</strong>
 
   🤔 Ask me about ...<strong>Anything</strong>
