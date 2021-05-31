@@ -1,4 +1,4 @@
-![avento](https://user-images.githubusercontent.com/69143883/104419394-6b666b00-559e-11eb-9b64-8452ba46e226.gif)<br>
+![Banner](https://user-images.githubusercontent.com/69143883/120229885-c528b280-c26b-11eb-9389-87e3a7f5d5c0.gif)<br>
 
 # <👋 Hello, World!/><br>
 # I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -73,13 +73,13 @@
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/><br>
  <br><br>
  
-|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan&theme=algolia"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan&theme=vue-dark"/>|
 |---|---|
  <br>
  
  ## Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=algolia)](https://github.com/anupam-kumar-krishnan)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=vue-dark)](https://github.com/anupam-kumar-krishnan)<br>
  
 ## 🤝 Connect With Me:  
   
