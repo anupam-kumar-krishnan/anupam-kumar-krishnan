@@ -1,24 +1,16 @@
 ![Banner](https://user-images.githubusercontent.com/69143883/120229885-c528b280-c26b-11eb-9389-87e3a7f5d5c0.gif)<br>
 
 # <👋 Hello, World!/><br>
-# I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  I'm a 3rd year computer Science student👨‍💻 currently on my journey of B.E.⚡ 
-  from Dr. D.Y.Patil College of Engineering👨‍🎓.I ❤ developing websites using web developmet
-  tools(html,css,js). Also I ❤ <strong>desigining User Interface on Figma, Designs for mobile and web.</strong> 
+# I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+👨‍🎓I am <b>Anupam Kumar Krishnan</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
+💻I am a <b>Web Developer</b> as well as an 📱<b>UI / UX enthusiast</b><br>
+🏆🥇I am <b>2-star</b>⭐️ coder at <b>Codechef</b><br>
+📝✏️I write <b>tech</b> affiliated articles on <b>Medium</b> and <b>GeeksForGeeks</b><br>
 
-# I'm a
-
-      ✨ Competitive Coder
-
-      ✨ Web developer enthusiast
-
-      ✨ UI/UX Designing Enthusiast
-
-      ✨ Technical Writer
 
 ## Here Is What I'm Working On!👨‍💻
 
-  💻 I’m currently learning ...<strong>MERN Full-stack development</strong>
+  💻 I’m currently learning ...<strong>Django-React Stack</strong>
 
   🤔 Ask me about ...<strong>Anything</strong>
   
@@ -49,7 +41,7 @@
   
   <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   
-   <img align="left" alt="Mongodb" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+   <img align="left" alt="Mongodb" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
    
    <img align="left" alt="Express" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
    
