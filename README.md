@@ -68,5 +68,3 @@
 </a>
   
 </div>
-
-![anupam-kumar-krishnan](https://user-images.githubusercontent.com/69143883/121360124-c20b8180-c951-11eb-887d-bddbf03eb667.png)
