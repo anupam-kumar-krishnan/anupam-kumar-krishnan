@@ -1,4 +1,4 @@
-![fi](https://user-images.githubusercontent.com/69143883/120330012-07a0cc80-c30a-11eb-944b-419619271bf3.gif)<br>
+![bb](https://user-images.githubusercontent.com/69143883/123844900-358d2700-d931-11eb-9816-1480bde9c917.gif)
 
 # <👋 Hello, World!/><br>
 # I'm Anupam Kumar Krishnan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
