@@ -5,7 +5,7 @@
 👨‍🎓I am <b>Anupam Kumar Krishnan</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI / UX enthusiast</b><br>
 🏆🥇I am <b>2-star</b>⭐️ coder <b>@Codechef</b><br>
-📝✏️I write <b>tech</b> affiliated articles on <b>Medium</b> and <b>GeeksForGeeks</b><br>
+📝✏️I write <b>Tech</b> affiliated articles on <b>Medium</b> and <b>GeeksForGeeks</b><br>
 
 
 ## Here Is What I'm Working On!👨‍💻
