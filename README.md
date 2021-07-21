@@ -33,13 +33,13 @@
  <img alt="C" src="https://img.shields.io/badge/c-%2340B783.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2340B783.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <br><br>
  
-|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan&theme=vue-dark"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-kumar-krishnan&theme=gotham"/>|
 |---|---|
  <br>
  
  ## Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=vue-dark)](https://github.com/anupam-kumar-krishnan)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  
 ## 🤝 Connect With Me:  
   
