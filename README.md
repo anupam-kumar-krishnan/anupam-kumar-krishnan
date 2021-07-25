@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  <br>
-|<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=gotham">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=gotham">|
+|<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=merko">|<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=merko">|
 |---|---|
 
  
