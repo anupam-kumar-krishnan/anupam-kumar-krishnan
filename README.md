@@ -41,16 +41,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  <br>
- 
-<a href="https://github.com/anupam-kumar-krishnan/Hire-Youtubers">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=algolia"></a>
-<a href="https://github.com/anupam-kumar-krishnan/News-Aggregator-Khabrilal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=midnight-purple"></a>
 
+## Recent Projects
+<a href="https://github.com/anupam-kumar-krishnan/Hire-Youtubers">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=gotham "></a>
+<a href="https://github.com/anupam-kumar-krishnan/News-Aggregator-Khabrilal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=gotham"></a>
 
  
 ## 🤝 Connect With Me:  
   
-  <div align="center">
+<div align="center">
  <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
 <img src=https://img.shields.io/badge/linkedin-2340B783.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
