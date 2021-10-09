@@ -1,14 +1,14 @@
 ![ADARSH](https://user-images.githubusercontent.com/69143883/126752513-93338270-a931-4bf3-9da3-5125f32b0e02.gif)
 
-# <👋 Hello, World!/><br>
-# I'm Anupam Kumar Krishnan👨‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# _<👋 Hello, World!/><br>_
+# _I'm Anupam Kumar Krishnan👨‍💻_<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 👨‍🎓I am <b>Anupam Kumar Krishnan👨‍🎓</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI / UX enthusiast</b><br>
 🏆🥇I am <b>3-Star</b>⭐️ Coder <b>@Codechef</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>@[Medium](https://medium.com/@anupamk.krishnan)</b> and <b>@[GeeksForGeeks](https://www.geeksforgeeks.org/stdunary_negate-in-c-with-examples/)</b><br>
 
 
-## Here Is What I'm Working On!👨‍💻
+## _Here Is What I'm Working On!👨‍💻_
 
   💻 I’m currently learning ...<strong>Django-React Stack🔥✨</strong>
 
@@ -23,22 +23,22 @@
  
  <br>
   
-  ## ⚒ Languages and Tools
+  ## ⚒ _Languages and Tools_
    <img alt="HTML5" src="https://img.shields.io/badge/html5-2340B783.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-2340B783.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-2340B783.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-2340B783.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-2340B783.svg?style=for-the-badge&logo=react&logoColor=white"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-2340B783.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>  <img alt="Material UI" src="https://img.shields.io/badge/materialui-2340B783.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>  <img alt="Django" src="https://img.shields.io/badge/django-2340B783.svg?style=for-the-badge&logo=django&logoColor=white"/>  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-2340B783.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-2340B783.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-2340B783.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-2340B783.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
   
 <br>
   
- ## </> Programming Languages Known
+ ## </> _Programming Languages Known_
 
  <img alt="C" src="https://img.shields.io/badge/c-2340B783.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-2340B783.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <br><br>
  
- ## Stats🚀 & Streak🔥
+ ## _Stats🚀 & Streak🔥_
 |<img src="https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-kumar-krishnan&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 |---|---|
  <br>
  
- ## Most Used Languages💻
+ ## _Most Used Languages💻_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  <br>
@@ -49,7 +49,7 @@
 <a href="https://github.com/anupam-kumar-krishnan/News-Aggregator-Khabrilal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=gotham"></a> -->
 
  
-## 🤝 Connect With Me:  
+## 🤝 _Connect With Me:_  
   
 <div align="center">
  <a href= "https://www.linkedin.com/in/anupam-kumar-krishnan-614373194/">
