@@ -38,7 +38,7 @@
 |---|---|
  <br>
  
- ## _Most Used Languages💻_
+ ## _Most Used Languages🚀💻_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  <br>
