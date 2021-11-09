@@ -10,7 +10,7 @@
 
 ## _Here Is What I'm Working On!👨‍💻_
 
-  💻 I’m currently learning ...<strong>Django-React Stack🔥✨</strong>
+  💻 I’m currently learning ...<strong>Django-React Stack🔥✨🚀</strong>
 
   🤔 Ask me about ...<strong>Anything</strong>
   
