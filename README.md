@@ -28,7 +28,7 @@
   
 <br>
   
- ## </> _Programming Languages Known_
+ ## </> _Programming Languages_
 
  <img alt="C" src="https://img.shields.io/badge/c-2340B783.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-2340B783.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/Java-2340B783.svg?style=for-the-badge&logo=Java&logoColor=white"/>
  <br><br>
