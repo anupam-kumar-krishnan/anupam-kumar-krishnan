@@ -14,14 +14,8 @@
 
   🤔 Ask me about  ...<strong>Anything</strong>
   
-  👦 Pronouns:  ... <strong>He/Him</strong>
-    
-  ⚡ User Interface of a music app named : <strong>Musify</strong>
-   
-  🔗  Link for the Design(designed on Figma) :
-     - https://www.figma.com/proto/7erKyR5WfQHRS2GKkY25c8/Music-Player?node-id=13%3A67&viewport=353%2C-316%2C0.32381466031074524&scaling=scale-down
- 
- <br>
+  👦 Pronouns:  ... <strong>He/Him</strong> 
+ <br><br>
   
   ## ⚒ _Languages and Tools_
    <img alt="HTML5" src="https://img.shields.io/badge/html5-2340B783.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-2340B783.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-2340B783.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-2340B783.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-2340B783.svg?style=for-the-badge&logo=react&logoColor=white"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-2340B783.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>  <img alt="Material UI" src="https://img.shields.io/badge/materialui-2340B783.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>  <img alt="Django" src="https://img.shields.io/badge/django-2340B783.svg?style=for-the-badge&logo=django&logoColor=white"/>  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-2340B783.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-2340B783.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-2340B783.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-2340B783.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
