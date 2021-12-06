@@ -18,7 +18,7 @@
     
   ⚡ User Interface of a music app named : <strong>Musify</strong>
    
-    Link for the Design(designed on Figma) :
+  🔗  Link for the Design(designed on Figma) :
      - https://www.figma.com/proto/7erKyR5WfQHRS2GKkY25c8/Music-Player?node-id=13%3A67&viewport=353%2C-316%2C0.32381466031074524&scaling=scale-down
  
  <br>
