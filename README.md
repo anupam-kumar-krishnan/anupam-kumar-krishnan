@@ -32,8 +32,6 @@
 |---|---|
  <br>
  
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14772878)](https://stackoverflow.com/users/14772878/anupam-kumar-krishnan)
- <br>
  ## _Most Used Languages🚀💻_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
