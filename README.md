@@ -12,7 +12,7 @@
 
   💻 I’m currently learning  ...<strong>Django-React Stack🔥✨🚀</strong>
 
-  🤔 Ask me about  ...<strong>Anything</strong>
+  🤔 Ask me about  ...<strong>Anything✨</strong>
   
   👦 Pronouns:  ... <strong>He/Him</strong> 
  <br><br>
