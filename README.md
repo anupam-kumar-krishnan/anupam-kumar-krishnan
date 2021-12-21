@@ -8,7 +8,7 @@
 📝✏️I write <b>Tech</b> affiliated articles on <b>[Medium](https://medium.com/@anupamk.krishnan)</b> and <b>[GeeksForGeeks](https://www.geeksforgeeks.org/stdunary_negate-in-c-with-examples/)</b><br>
 
 
-## _Here Is What I'm Working On!💻👨‍💻_
+## _Here Is What I'm Working On👨‍💻_
 
   💻 I’m currently learning  ...<strong>Django-React Stack🔥✨🚀</strong>
 
