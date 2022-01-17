@@ -68,5 +68,9 @@
 </a>
 
 
+ ## _Visitors Count✅_<br>
+  <img src="https://profile-counter.glitch.me/anupam-kumar-krishnan/count.svg" />
+
+
 
 
