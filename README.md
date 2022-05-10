@@ -4,7 +4,7 @@
 # _I'm Anupam Kumar Krishnan💻_
 I am <b>Anupam Kumar Krishnan👨‍💻💻</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI/UX enthusiast</b><br>
-🏆🥇I am <b>3 Star⭐️ Coder</b><b>@Codechef</b><br>
+🏆🥇I am <b>3 Star⭐️ Coder </b><b>@Codechef</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>[Medium](https://medium.com/@anupamk.krishnan)</b> and <b>[GeeksForGeeks](https://www.geeksforgeeks.org/stdunary_negate-in-c-with-examples/)</b><br>
 
 
