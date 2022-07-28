@@ -1,6 +1,6 @@
 ![ADARSH](https://user-images.githubusercontent.com/69143883/126752513-93338270-a931-4bf3-9da3-5125f32b0e02.gif)
 
-# Hello World👋🌍<br>
+# Hello World🌍<br>
 # _I'm Anupam Kumar Krishnan_
 I am <b>Anupam Kumar Krishnan</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI/UX enthusiast</b><br>
