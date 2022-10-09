@@ -2,7 +2,7 @@
 
 # _Hello World_ 👋<br>
 # _I'm Anupam Kumar Krishnan_
-I am <b>Anupam Kumar Krishnan</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
+I am <b>Anupam Kumar Krishnan</b>, an Engineering Graduate from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI/UX enthusiast</b><br>
 🏆🥇I am <b>3 Star⭐️ Coder </b><b>@Codechef</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>[Medium](https://medium.com/@anupamk.krishnan)</b> and <b>[GeeksForGeeks](https://www.geeksforgeeks.org/stdunary_negate-in-c-with-examples/)</b><br>
@@ -10,15 +10,15 @@ I am <b>Anupam Kumar Krishnan</b>, currently embarking on my engineering journey
 
 ## _Here Is What I'm Working On👨‍💻_
 
-  💻 I’m currently learning  ...<strong>Django-React Stack🔥✨🚀</strong>
+  💻 I’m currently learning  ...<strong>_Full Stack Web Development_ 🔥✨🚀</strong>
 
-  🤔 Ask me about  ...<strong>Anything✨</strong>
+  🤔 Ask me about  ...<strong>_Anything_ ✨</strong>
   
-  👦 Pronouns:  ... <strong>He/Him</strong> 
+  👦 Pronouns:  ... <strong>_He/Him_</strong> 
  <br><br>
   
   ## ⚒ _Languages and Tools_
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-2340B783.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-2340B783.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-2340B783.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-2340B783.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-2340B783.svg?style=for-the-badge&logo=react&logoColor=white"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-2340B783.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>  <img alt="Material UI" src="https://img.shields.io/badge/materialui-2340B783.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>  <img alt="Django" src="https://img.shields.io/badge/django-2340B783.svg?style=for-the-badge&logo=django&logoColor=white"/>  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-2340B783.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-2340B783.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-2340B783.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-2340B783.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-2340B783.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-2340B783.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-2340B783.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-2340B783.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-2340B783.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-2340B783.svg?style=for-the-badge&logo=react&logoColor=white"/>  ![NodeJS](https://img.shields.io/badge/node.js-2340B783?style=for-the-badge&logo=node.js&logoColor=white)  <img alt="Material UI" src="https://img.shields.io/badge/materialui-2340B783.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>  <img alt="Django" src="https://img.shields.io/badge/django-2340B783.svg?style=for-the-badge&logo=django&logoColor=white"/>  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-2340B783.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-2340B783.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-2340B783.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-2340B783.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
   
 <br>
   
