@@ -65,7 +65,9 @@ I am <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <
 <a href="https://instagram.com/_anupam_kumar_krishnan_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-2340B783.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://anupamkkrishnan.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-2340B783.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
 
  ## _Visitors Count✅_<br>
   <img src="https://profile-counter.glitch.me/anupam-kumar-krishnan/count.svg" />
