@@ -6,7 +6,7 @@ I am <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <
 💻I am a <b>Web Developer</b> as well as an 📱<b>UI/UX enthusiast</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
 
-## _Portfolio 👨‍💻:_ _[Live Preview Link 🔗](https://anupamkkrishnan.netlify.app/)_
+## _Portfolio 👨‍💻:_ _[Live Preview Link 🌐](https://anupamkkrishnan.netlify.app/)_
 
 ## _Here Is What I'm Working On 👨‍💻_
 
