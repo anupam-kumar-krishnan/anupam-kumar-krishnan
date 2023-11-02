@@ -29,19 +29,15 @@ I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b
  
  ## _Streak🔥_
 
-| ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anupam-kumar-krishnan&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
-|----|----|
-
-
-
+![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham)
 
  <br>
- <!--
+ 
  ## _Most Used Languages🚀💻_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
  <br>
-
+<!--
 ## Recent Projects
 <a href="https://github.com/anupam-kumar-krishnan/Hire-Youtubers">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=gotham "></a>
