@@ -25,9 +25,9 @@ I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b
  <img alt="C" src="https://img.shields.io/badge/c-2340B783.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-2340B783.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/Java-2340B783.svg?style=for-the-badge&logo=Java&logoColor=white"/>
  <br><br>
  
- ## _Streak🔥_
+ ## _Stats🚀 & Streak🔥_
 
-![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham)
+![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham) [![GitHub Streak](https://streak-stats.demolab.com?user=anupam-kumar-krishnan&theme=gotham)](https://git.io/streak-stats)
 
  <br>
  
