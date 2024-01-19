@@ -26,8 +26,9 @@ I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b
  <br><br>
  
  ## _Stats🚀 & Streak🔥_
+|![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham) | [![GitHub Streak](https://streak-stats.demolab.com?user=anupam-kumar-krishnan&theme=gotham)](https://git.io/streak-stats)|
+|---|---|
 
-![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham) [![GitHub Streak](https://streak-stats.demolab.com?user=anupam-kumar-krishnan&theme=gotham)](https://git.io/streak-stats)
 
  <br>
  
