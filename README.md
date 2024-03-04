@@ -1,4 +1,4 @@
-![ADARSH](https://user-images.githubusercontent.com/69143883/126752513-93338270-a931-4bf3-9da3-5125f32b0e02.gif)
+![banner](https://github.com/anupam-kumar-krishnan/anupam-kumar-krishnan/assets/69143883/035c2123-c464-4c95-81a6-8ca29665ab97)
 
 # _Hello World_ 👋 🌎<br>
 # _I'm Anupam Kumar Krishnan_ 
