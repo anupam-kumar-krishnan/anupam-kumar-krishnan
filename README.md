@@ -1,6 +1,6 @@
 ![Black Simple Elegant Personal LinkedIn Banner (2)](https://github.com/anupam-kumar-krishnan/anupam-kumar-krishnan/assets/69143883/d213e0ce-7209-41ab-9243-14f8d43896e2)
 
-# _Hello World_ 👋 🌎<br>
+# _Hello World_ 👋🌎<br>
 # _I'm Anupam Kumar Krishnan_ 
 I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
 💻I am a <b>_Web Developer_</b><br>
