@@ -6,6 +6,7 @@ I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b
 💻I am a <b>_Web Developer_</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
 
+
 ## _Here Is What I'm Working On  👨‍💻_
 
   💻 I’m currently learning  ...<strong>_Full Stack Web Development_ 🔥✨🚀</strong>
@@ -25,7 +26,7 @@ I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b
  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <br><br>
  
- ## _Stats🚀_
+ ## _Stats🪄_
 ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=gotham)
 
 
