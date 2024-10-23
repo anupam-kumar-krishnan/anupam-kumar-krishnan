@@ -2,7 +2,7 @@
 
 # _Hello World_ 👋🌎<br>
 # _I'm Anupam Kumar Krishnan_ 
-I'm <b>Anupam Kumar Krishnan 👨‍💻</b>, a 2022 Engineering Graduate from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b>
+I'm <b>Anupam Kumar Krishnan👨‍💻</b>, a 2022 Engineering Graduate from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b>
 <br>
 💻I am a <b>_Web Developer_</b><br>
 📝✏️I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
