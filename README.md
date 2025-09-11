@@ -2,20 +2,10 @@
 
 # _Hello World_ 👋🌎 <br>
 # _I'm Anupam Kumar Krishnan_ 
-I'm <b>Anupam Kumar Krishnan 👨‍💻</b>, a 2022 Engineering Graduate from <b>D.Y. Patil College Of Engineering, Akurdi, Pune, India</b>
+👨‍💻A Software Engineer with 2.6 years of Experience in IBM India Pvt. Ltd. focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
+
+
 <br>
-💻I am a <b>_Software Developer with 2+ years of Experience in building Web Development_</b><br>
-📝✏️I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
-
-
-## _Here Is What I'm Working On  👨‍💻_
-
-  💻 I’m currently learning  ...<strong>_Full Stack Web Development_ 🔥✨🚀</strong>
-
-  🤔 Ask me about  ...<strong>_Anything_ ✨</strong>
-  
-  👦 Pronouns:  ... <strong>_He/Him_</strong> 
- <br><br>
   
   ## ⚒ _Languages and Tools_
    <img alt="HTML5" src="https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -58,8 +48,7 @@ I'm <b>Anupam Kumar Krishnan 👨‍💻</b>, a 2022 Engineering Graduate from <
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
 
- ## _Visitors Count✅_<br>
-  <img src="https://profile-counter.glitch.me/anupam-kumar-krishnan/count.svg" />
+
 
 
 
