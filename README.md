@@ -2,7 +2,7 @@
 
 # _Hello World_ 👋🌎 <br>
 # _I'm Anupam Kumar Krishnan_ 
-👨‍💻A Software Engineer with 2.6 years of Experience in IBM India Pvt. Ltd. focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
+👨‍💻A Software Engineer with <b>2.5 years</b> of <b>Experience</b> in <b>IBM India Pvt. Ltd.</b> focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b><br>
 
 
 <br>
