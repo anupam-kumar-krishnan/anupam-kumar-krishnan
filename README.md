@@ -19,18 +19,12 @@
  <img alt="C" src="https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
  <br><br>
  
- ## _Stats 🪄 and Streak🔥_
+ ## _Streak🔥_
 
-|![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=holi)|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats)|
-|-----|-----|
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats)
 
  <br>
  
- ## _Most Used Languages🚀💻_
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=gotham)](https://github.com/anupam-kumar-krishnan)<br>
- <br>
 <!--
 ## Recent Projects
 <a href="https://github.com/anupam-kumar-krishnan/Hire-Youtubers">
