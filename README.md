@@ -31,6 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=Hire-Youtubers&show_icons=true&theme=gotham "></a>
 <a href="https://github.com/anupam-kumar-krishnan/News-Aggregator-Khabrilal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupam-kumar-krishnan&repo=News-Aggregator-Khabrilal&show_icons=true&theme=gotham"></a> -->
 
+## _GitHub Contribution Graph_
+<img src="https://ghchart.rshah.org/0BDA51/anupam-kumar-krishnan" alt="Anupam's Blue Github Chart" />
  
 ## 🤝 _Connect With Me:_  
 
