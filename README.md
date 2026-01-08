@@ -19,11 +19,17 @@
  <img alt="C" src="https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
  <br><br>
  
- ## _Streak🔥_
+ ## _Stats & Streak🔥_
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats)
-
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=github_dark) [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats)
+ 
  <br>
+
+ ## _Most Used Language_
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anupam-kumar-krishnan&layout=compact&theme=github_dark)
+
+<br>
  
 <!--
 ## Recent Projects
@@ -33,6 +39,8 @@
 
 ## _GitHub Contribution Graph_
 <img src="https://ghchart.rshah.org/0BDA51/anupam-kumar-krishnan" alt="Anupam's Blue Github Chart" />
+
+<br>
  
 ## 🤝 _Connect With Me:_  
 
