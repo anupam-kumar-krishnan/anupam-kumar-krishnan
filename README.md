@@ -19,9 +19,10 @@
  <img alt="C" src="https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
  <br><br>
  
- ## _Stats & Streak🔥_
+ ## _Stats📊 & Streak🔥_
 
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=github_dark) [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats)
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anupam-kumar-krishnan&show_icons=true&theme=github_dark) | [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=anupam-kumar-krishnan&theme=algolia)](https://git.io/streak-stats) |
+|----|----|
  
  <br>
 
