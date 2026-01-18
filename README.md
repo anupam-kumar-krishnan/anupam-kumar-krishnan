@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/3178b53e-0453-4423-9e1b-7647d8213122" /><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=5071FF&width=435&lines=Hello+World+%F0%9F%91%8B%F0%9F%8C%8D)](https://git.io/typing-svg) <br/>
-👨‍💻A Software Engineer with <b>2.5 years</b> of <b>Experience</b> in <b>IBM India Pvt. Ltd.</b> focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b> <br><br> <b>Looking for Frontend Developer roles!</b> 
+👨‍💻A Software Engineer with <b>2.5 years</b> of <b>Experience</b> in <b>IBM India Pvt. Ltd.</b> focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b> <br><br> <b>Open for Frontend Developer roles! - 📩 anupamk.krishnan@gmail.com</b> 
 
 ## _Work_
 - **Portfolio:** [Live Preview](https://anupam-k-krishnan.vercel.app/)
