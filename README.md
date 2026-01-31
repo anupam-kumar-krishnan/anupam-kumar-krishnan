@@ -4,7 +4,7 @@
 👨‍💻A Software Engineer with <b>2.5 years</b> of <b>Experience</b> in <b>IBM India Pvt. Ltd.</b> focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b> <br><br> <b>Open for Frontend Developer roles! - 📩 anupamk.krishnan@gmail.com</b> 
 
 ## _Work_
-- **Portfolio:** [Live Preview](https://anupam-k-krishnan.vercel.app/)
+- **Portfolio:** [Live Preview🌐](https://anupam-k-krishnan.vercel.app/) 
 - **Recent Projects:** [Resume Reviewer](https://github.com/anupam-kumar-krishnan/resume-reviewer) | [Reqon](https://github.com/anupam-kumar-krishnan/reqon) | [UI Library](https://github.com/anupam-kumar-krishnan/snappy-ui)
 
 <br>
