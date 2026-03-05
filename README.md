@@ -4,20 +4,26 @@
 👨‍💻A Software Engineer with <b>2.5 years</b> of <b>Experience</b> in <b>IBM India Pvt. Ltd.</b> focused on developing scalable, intuitive User Interfaces (UI) using React.js, JavaScript, and React Hooks. Aim is to ensure seamless user experiences through modern web optimization techniques and frontend frameworks. I write <b>Tech</b> affiliated articles on <b>_[Hashnode](https://anupamkumarkrishnan.hashnode.dev/)_</b> <br><br> <b>Open for Frontend Developer roles! - 📩 anupamk.krishnan@gmail.com</b> 
 
 ## _Work_
-- **Portfolio:** [Live Preview🌐](https://anupam-k-krishnan.vercel.app/) 
-- **Recent Projects:** [AI Resume Reviewer](https://github.com/anupam-kumar-krishnan/resume-reviewer) | [Reqon](https://github.com/anupam-kumar-krishnan/reqon) | [UI Library](https://github.com/anupam-kumar-krishnan/snappy-ui)
+### _[Portfolio](https://anupam-k-krishnan.vercel.app/)_ 
+Portfolio showing my skills, exerience, projects, blogs and socials if anyone wants to connect!
+
+### _[AI Resume Reviewer](https://github.com/anupam-kumar-krishnan/resume-reviewer)_ 
+AI-powered resume analysis tool with ATS-style scoring and suggestions.
+
+### _[Reqon](https://github.com/anupam-kumar-krishnan/reqon)_ 
+Developer tool for testing REST APIs and WebSockets with request history and collections.
+
+### _[Snappy UI Library](https://github.com/anupam-kumar-krishnan/snappy-ui)_
+Reusable React component system with CLI-based installation using Shadcn registry.
 
 <br>
   
-  ## ⚒ _Languages and Tools_
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-3B82F6.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-3B82F6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-3B82F6?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=61DAFB"/>  ![NodeJS](https://img.shields.io/badge/Node.js-3B82F6?style=for-the-badge&logo=node.js&logoColor=white)  <img alt="Redux" src="https://img.shields.io/badge/Redux-3B82F6?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React_Router-3B82F6?style=for-the-badge&logo=react-router&logoColor=white" /> <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-3B82F6?style=for-the-badge&logo=material-ui&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-3B82F6?style=for-the-badge" />  <img alt="Django" src="https://img.shields.io/badge/Django-3B82F6?style=for-the-badge&logo=django&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/GIT-3B82F6?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-3B82F6?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-3B82F6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+## ⚒ _Tech Stack_
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux <br>
+- **Backend:** Node.js, Prisma <br>
+- **Tools:** Docker, Vite, Webpack, Git, Postman
   
 <br>
-  
- ## </> _Programming Languages_
-
- <img alt="C" src="https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
- <br><br>
  
  ## _Stats📊 & Streak🔥_
 
